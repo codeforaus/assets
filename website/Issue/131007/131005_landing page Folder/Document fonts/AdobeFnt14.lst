@@ -1,0 +1,154 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Bold
+FamilyName:Brandon Grotesque
+StyleName:Bold
+MenuName:Brandon Grotesque Bold
+StyleBits:0
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:Brandon Grotesque Bold
+WritingScript:Roman
+OutlineFileName:\Brandon_bld.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:89928
+FileModTime:1266791439
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Black
+FamilyName:Brandon Grotesque
+StyleName:Black
+MenuName:Brandon Grotesque Black
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Brandon Grotesque Black
+WritingScript:Roman
+OutlineFileName:\Brandon_blk.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:90892
+FileModTime:1266791444
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Medium
+FamilyName:Brandon Grotesque
+StyleName:Medium
+MenuName:Brandon Grotesque Medium
+StyleBits:0
+WeightClass:420
+WidthClass:5
+AngleClass:0
+FullName:Brandon Grotesque Medium
+WritingScript:Roman
+OutlineFileName:\Brandon_med.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:89536
+FileModTime:1266791455
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Black
+FamilyName:Gotham
+StyleName:Black
+MenuName:Gotham Black
+StyleBits:0
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:Gotham Black
+WritingScript:Roman
+OutlineFileName:\Gotham-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:165580
+FileModTime:1221204641
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+MenuName:Gotham Medium
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Gotham Medium
+WritingScript:Roman
+OutlineFileName:\Gotham-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:159852
+FileModTime:1221204656
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Intro
+FamilyName:Intro 
+StyleName:Regular
+MenuName:Intro 
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Intro 
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\Intro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:22172
+FileModTime:1329774226
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1368545719
+DesignSize:110
+%EndFont
+
